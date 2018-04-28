@@ -1,0 +1,48 @@
+[INFO  - 2017-06-20T02:13:08.586Z] GhostDriver - Main - running on port 54285
+[INFO  - 2017-06-20T02:13:08.942Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-06-20T02:13:08.942Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.customHeaders:  - {}
+[INFO  - 2017-06-20T02:13:08.942Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-06-20T02:13:08.942Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 00f3bd70-555e-11e7-85fc-97e35646f193
+[ERROR - 2017-06-20T02:13:11.794Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - msg: TypeError: undefined is not a function (evaluating '$('.bxslider').bxSlider({
+                auto: true,
+            })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:11.795Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - stack:
+  (anonymous function) (http://store.ponparemall.com/pro/soukai/frame/1603/bxslider/pd_head_bnr_01.html:55)
+  c (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+  fireWith (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+  ready (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+  q (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:12.460Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - msg: TypeError: null is not an object (evaluating 'window.parent.document.getElementById('sideB').style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:12.460Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - stack:
+  iframeResize (http://store.ponparemall.com/pro/soukai/frame/pd_side-bnr.html:14)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:19.431Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - msg: TypeError: undefined is not a function (evaluating '$('.bxslider').bxSlider({
+                auto: true,
+            })')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:19.431Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - stack:
+  (anonymous function) (http://store.ponparemall.com/pro/soukai/frame/1603/bxslider/pd_head_bnr_01.html:55)
+  c (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+  fireWith (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+  ready (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+  q (http://store.ponparemall.com/pro/soukai/js/1603/jquery-1.10.2.min.js:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:20.153Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - msg: TypeError: null is not an object (evaluating 'window.parent.document.getElementById('sideB').style')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:20.154Z] Session [00f3bd70-555e-11e7-85fc-97e35646f193] - page.onError - stack:
+  iframeResize (http://store.ponparemall.com/pro/soukai/frame/pd_side-bnr.html:14)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-06-20T02:13:52.131Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1497924832120
+
+  phantomjs://platform/console++.js:263 in error
